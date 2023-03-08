@@ -1,0 +1,63 @@
+{
+  "where": "body",
+  "childIndex": "first",
+  "adv": [
+    {
+      "type": "popunder",
+      "src": "//losswitchrancid.com/c4/90/98/c49098fb55fba4f4a188a2a8b4f8fbf8.js"
+    },
+    {
+      "type": "socialbar",
+      "src": "//losswitchrancid.com/84/83/48/848348642119265cf26a3c4a83e66916.js"
+    },
+    {
+      "type": "bottom",
+      "src": "//losswitchrancid.com/cc50dc2f5f1042cb7af826d37346cfb1/invoke.js",
+      "params": "atOptions={'key':'cc50dc2f5f1042cb7af826d37346cfb1','format':'iframe','height':90,'width':728,'params':{}};",
+      "style": "position:fixed;z-index:9999;bottom:0;left:50%;transform:translate(-50%,0);",
+      "hideScrollDown": true
+    },
+    {
+      "type": "left",
+      "src": "//losswitchrancid.com/fc8b95249bbd057ae8a9ef845f1f785a/invoke.js",
+      "params": "atOptions={'key':'fc8b95249bbd057ae8a9ef845f1f785a','format':'iframe','height':600,'width':160,'params':{}};",
+      "style": "position:fixed;z-index:9999;left:0;top:50%;transform:translate(0,-50%);",
+      "nine60": true
+    },
+    {
+      "type": "right",
+      "src": "//losswitchrancid.com/40719fcb6a3290eaed302e22d3adca31/invoke.js",
+      "params": "atOptions={'key':'40719fcb6a3290eaed302e22d3adca31','format':'iframe','height':300,'width':160,'params':{}};",
+      "style": "position:fixed;z-index:9999;right:0;top:50%;transform:translate(0,-50%);",
+      "nine60": true
+    },
+    {
+      "type": "banner1",
+      "src": "//losswitchrancid.com/2c393fb025140bfc89496782debbbec0/invoke.js",
+      "params": "atOptions={'key':'2c393fb025140bfc89496782debbbec0','format':'iframe','height':250,'width':300,'params':{}};",
+      "style": "display:block;width:100%;text-align:center;overflow:hidden;"
+    },
+    {
+      "type": "banner2",
+      "src": "//losswitchrancid.com/4955cd3308e5483452949948452e76d0/invoke.js",
+      "params": "atOptions={'key':'4955cd3308e5483452949948452e76d0','format':'iframe','height':50,'width':320,'params':{}};",
+      "style": "display:block;width:100%;text-align:center;overflow:hidden;"
+    },
+    {
+      "type": "banner3",
+      "src": "//losswitchrancid.com/431bf1fa096a3457d474033b1df0e394/invoke.js",
+      "params": "atOptions={'key':'431bf1fa096a3457d474033b1df0e394','format':'iframe','height':60,'width':468,'params':{}};",
+      "style": "display:block;width:100%;text-align:center;overflow:hidden;"
+    },
+    {
+      "type": "banner5",
+      "src": "//losswitchrancid.com/751336433d23ff67dbbaaf7b85533888/invoke.js",
+      "key": "751336433d23ff67dbbaaf7b85533888",
+      "style": "display:block;width:100%;text-align:center;overflow:hidden;"
+    }
+  ],
+  "refresh": 180,
+  "allowUserHideAdv": true,
+  "enableDevtools": true,
+  "allowRightClick": true
+}
